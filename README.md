@@ -47,6 +47,8 @@ You'll need to find your save files, which are located in $HOME/Library/Applicat
 
 11: Open the game, and try to go into your save. If you are presented with a save conflict message, choose the local one.
 
+If you want to transfer your mobile save to PC/Mac, do the same steps until you get to the part where you copy your save files from PC/Mac to mobile. Then, copy the saves from that folder to your PC/Mac saves folder.
+
 
 
 
